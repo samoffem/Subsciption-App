@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Dogs"
+    },
+    {
+        "name": "Cats"
+    }, 
+    {
+        "name": "Chickens"
+    },
+    {
+        "name": "Sheep"
+    },
+    {
+        "name": "Goats"
+    },
+    {
+        "name": "Cows"
+    }
+]

@@ -1,0 +1,9 @@
+.register-container{
+    width:500px;
+    margin: 30px auto;
+    border: 1px solid #ced4da;
+    color: #6c757d;
+}
+.error{
+    color: red;
+}

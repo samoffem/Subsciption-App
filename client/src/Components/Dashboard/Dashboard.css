@@ -1,0 +1,50 @@
+.dashboard-container{
+    padding-left: 32px;
+    padding-right: 32px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.dashboard-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    background-color:  #6872fe23;
+    border-radius: 12px;
+    max-height: 160px;
+}
+
+.view-channels-button{
+    border: none;
+    background-color: #6871fe;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 10px;
+}
+.dashboard-body{
+    padding-top: 32px;
+}
+.sub-channels-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.sub-channel-wrapper{
+    width: 200px;
+    height: 150px;
+    padding: 16px;
+    background-color:  #efb253;
+    border-radius: 12px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.unsubscribe-button{
+    border-style: none;
+    background-color: #fff;
+    padding: 4px 10px;
+    border-radius: 6px;
+    margin-top: auto;
+}
